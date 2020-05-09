@@ -1,0 +1,60 @@
+print("hello")
+number1=(1,2,3,4,5,6)
+number2=(10,20,30,40,50)
+print(number1 + number2)
+print(number1*3)
+number1[3]
+number1[3:]
+number1[:3]
+x=20.15
+y=17
+print(x)
+print(y)
+print(x+y)
+#Variables in PYTHON
+
+x="hi"
+y="10"
+print(x+y)
+#Mathematicals Operators
+2+3
+2-3
+2*3
+#strings
+print("He is a good person")
+print('he\'s good person')
+input("please enter your name")
+a=10
+b=20
+a+b
+a=10
+b=20
+c=a+b
+print(c)
+6**2
+6**3
+6**0.5
+#assignment
+a=5
+print(a)
+#comparision
+a>=5
+#Logical Operator
+a=5
+b=10
+a==5 and b==10
+a==5 or b==9
+#Membership Operators
+a=[1,2,3]
+1 in a
+10 in a
+#initiation
+myList=("one","two", "three")
+#Execution/condion
+for number in myList:
+    print(number)
+#updation
+#Decision Making
+age=25
+if age>18:
+    print("we can vote")
